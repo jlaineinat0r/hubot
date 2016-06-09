@@ -2,6 +2,7 @@
   "hubot-auth",
   "hubot-diagnostics",
   "hubot-help",
+  "hubot-karma",
   "hubot-google-translate",
   "hubot-pugme",
   "hubot-maps",

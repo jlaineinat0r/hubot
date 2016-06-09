@@ -1,4 +1,5 @@
 [
+  "hubot-auth",
   "hubot-diagnostics",
   "hubot-help",
   "hubot-heroku-keepalive",
@@ -7,6 +8,7 @@
   "hubot-pugme",
   "hubot-maps",
   "hubot-redis-brain",
+  "hubot-reload-scripts",
   "hubot-rules",
   "hubot-shipit"
 ]
